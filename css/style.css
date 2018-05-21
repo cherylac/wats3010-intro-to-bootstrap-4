@@ -10,4 +10,11 @@
 
 .footer-item-flex {
     flex: 0 1 auto;
+
+}
+
+/* links */
+
+a:visited {
+    color: purple;
 }
