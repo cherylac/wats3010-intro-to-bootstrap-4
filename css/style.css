@@ -18,3 +18,25 @@
 a:visited {
     color: purple;
 }
+
+.card-body:hover {
+    background-color: #c0f4dd;
+}
+a:hover{
+    color: green;
+}
+
+.bg-dark {
+    background-color: #666a86!important;
+    opacity: .8;
+}
+
+.card-body {
+    border: 3px;
+    border-color: black;
+    margin: 5px;
+}
+
+h1 {
+    color: 
+}
